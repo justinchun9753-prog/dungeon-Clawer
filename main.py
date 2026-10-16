@@ -1,5 +1,8 @@
-
-
+# /// script
+# dependencies = [
+#   "pytmx",
+# ]
+# ///
 import math
 import random
 import asyncio
